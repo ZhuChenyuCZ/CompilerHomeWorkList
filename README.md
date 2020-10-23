@@ -3,3 +3,6 @@
 
 ## 词法分析作业
 https://github.com/ZhuChenyuCZ/CompilerHomeWorkI
+
+## MiniPLC0 作业
+https://github.com/ZhuChenyuCZ/miniplc0-java
