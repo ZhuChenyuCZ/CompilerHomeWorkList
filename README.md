@@ -8,3 +8,6 @@ https://github.com/ZhuChenyuCZ/CompilerHomeWorkI
 
 ## MiniPLC0 作业
 https://github.com/ZhuChenyuCZ/miniplc0-java
+
+## 算符优先分析作业
+https://github.com/ZhuChenyuCZ/Operator-Precedence-Parse
